@@ -4,6 +4,8 @@
 A curated list of resources specific to applying to jobs in bioinformatics.
 I appreciate any help! For contributing, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
+_NOTE_: This list does not reflect any personal or professional bias or opinions. This is a nonexhaustive list and I appreciate any relevant contributions.
+
 ## Contents
 
 * [General](#general)
