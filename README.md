@@ -38,6 +38,11 @@ Help wanted: academia
 
 ## Regional
 
+### Germany
+
+* [Zeit Online](http://jobs.zeit.de)
+* [Jobs beim Staat](https://www.jobs-beim-staat.de)
+
 ### United States
 
 Help wanted: listing of contracting companies in the United States
