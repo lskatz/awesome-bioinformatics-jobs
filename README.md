@@ -16,7 +16,7 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 ## General
 
 * [PHEC](https://apps.sph.emory.edu/PHEC) - Emory University's Public Health Employment Connection.
-* [ISCB](https://www.iscb.org/iscb-careers-job-database)
+* [ISCB](https://www.iscb.org/) - International Society for Computational Biology.
 * [bioinformatics.org](https://www.bioinformatics.org/jobs)
 * [BioStars](https://www.biostars.org/t/jobs)
 
@@ -53,8 +53,6 @@ Help wanted: academia
 * [Jobs beim Staat](https://www.jobs-beim-staat.de)
 
 ### United States
-
-Help wanted: listing of contracting companies in the United States
 
 * [USA jobs](https://www.usajobs.gov)
 
