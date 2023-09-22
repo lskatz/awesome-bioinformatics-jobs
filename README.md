@@ -20,6 +20,13 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 * [bioinformatics.org](https://www.bioinformatics.org/jobs)
 * [BioStars](https://www.biostars.org/t/jobs)
 
+### Contracting companies
+
+* [Booz|Allen|Hamilton](https://careers.boozallen.com)
+* [Battelle](https://www.battelle.org/careers)
+* [Leidos](https://careers.leidos.com)
+* [IHRC](https://www.ihrc.com/Careers/Join-Us)
+
 ## Mechanisms
 
 ### Fellowships
@@ -48,7 +55,6 @@ Help wanted: academia
 ### United States
 
 Help wanted: listing of contracting companies in the United States
-
 
 * [USA jobs](https://www.usajobs.gov)
 
