@@ -9,7 +9,7 @@ I appreciate any help! For contributing, please see [CONTRIBUTING.md](CONTRIBUTI
 * [General](#general)
 * [Mechanisms](#mechanisms) - things like fellowships.
 * [Subfields](#subfields)
-* [regional](#regional)
+* [Regional](#regional)
 
 ## General
 
