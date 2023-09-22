@@ -8,13 +8,13 @@ I appreciate any help! For contributing, please see [CONTRIBUTING.md](CONTRIBUTI
 
 * [General](#general)
 * [Mechanisms](#mechanisms) - things like fellowships.
-* [By subfield](#subfields)
+* [Subfields](#subfields)
 * [regional](#regional)
 
 ## General
 
-* [PHEC](https://www.aphl.org/fellowships/pages/bioinformatics.aspx) - Emory University's Public Health Employment Connection.
-* [ISCB](https://www.aphl.org/fellowships/pages/bioinformatics.aspx)
+* [PHEC](https://apps.sph.emory.edu/PHEC) - Emory University's Public Health Employment Connection.
+* [ISCB](https://www.iscb.org/iscb-careers-job-database)
 * [bioinformatics.org](https://www.bioinformatics.org/jobs)
 * [BioStars](https://www.biostars.org/t/jobs)
 
@@ -24,7 +24,6 @@ I appreciate any help! For contributing, please see [CONTRIBUTING.md](CONTRIBUTI
 
 * [ORISE](https://orise.orau.gov/cdc) - Fellowships funded by Oak Ridge National Labs.
 * [APHL-CDC Bioinformatics Fellowship](https://www.aphl.org/fellowships/pages/bioinformatics.aspx)
-* [APHL](https://www.aphl.org/fellowships/pages/bioinformatics.aspx) - Association of Public Health Laboratories.
 
 ## Subfields
 
