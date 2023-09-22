@@ -1,7 +1,7 @@
 <!--lint disable awesome-git-repo-age-->
 # Awesome Bioinformatics Jobs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of resources specific to learning bioinformatics.
+A curated list of resources specific to applying to jobs in bioinformatics.
 I appreciate any help! For contributing, please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contents
@@ -39,6 +39,7 @@ Help wanted: academia
 
 ### Germany
 
+* [FaBI](https://bioinformatik.de/)
 * [Zeit Online](http://jobs.zeit.de)
 * [Jobs beim Staat](https://www.jobs-beim-staat.de)
 
