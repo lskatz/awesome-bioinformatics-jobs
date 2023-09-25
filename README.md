@@ -9,7 +9,7 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 ## Contents
 
 * [General](#general)
-* [Mechanisms](#mechanisms) - things like fellowships.
+* [Fellowships](#fellowships)
 * [Subfields](#subfields)
 * [Regional](#regional)
 
@@ -19,6 +19,7 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 * [ISCB](https://www.iscb.org/) - International Society for Computational Biology.
 * [bioinformatics.org](https://www.bioinformatics.org/jobs)
 * [BioStars](https://www.biostars.org/t/jobs)
+* [ASM](https://www.asmcareerconnections.org/) - American Society for Microbiology. Despite the name, there are international listings.
 
 ### Contracting companies
 
@@ -28,9 +29,7 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 * [IHRC](https://www.ihrc.com/Careers/Join-Us)
 * [ASRT](https://www.asrtinc.com/careers)
 
-## Mechanisms
-
-### Fellowships
+## Fellowships
 
 * [ORISE](https://orise.orau.gov/cdc) - Fellowships funded by Oak Ridge National Labs.
 * [APHL-CDC Bioinformatics Fellowship](https://www.aphl.org/fellowships/pages/bioinformatics.aspx)
