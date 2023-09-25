@@ -19,7 +19,8 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 * [ISCB](https://www.iscb.org/) - International Society for Computational Biology.
 * [bioinformatics.org](https://www.bioinformatics.org/jobs)
 * [BioStars](https://www.biostars.org/t/jobs)
-* [ASM](https://www.asmcareerconnections.org/) - American Society for Microbiology. Despite the name, there are international listings.
+* [ASM](https://www.asmcareerconnections.org/) - American Society for Microbiology career connections. Despite the name, there are international listings.
+* [APHL](https://careers.aphl.org/) - Laboratory careers with Association of Public Health Laboratories.
 
 ### Contracting companies
 
