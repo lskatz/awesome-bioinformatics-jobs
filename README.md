@@ -57,3 +57,7 @@ Help wanted: academia
 
 * [USA jobs](https://www.usajobs.gov)
 
+### France
+
+* [SFBI](https://www.sfbi.fr/)
+
