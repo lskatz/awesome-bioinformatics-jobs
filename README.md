@@ -21,6 +21,7 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 * [BioStars](https://www.biostars.org/t/jobs)
 * [ASM](https://www.asmcareerconnections.org/) - American Society for Microbiology career connections. Despite the name, there are international listings.
 * [APHL](https://careers.aphl.org/) - Laboratory careers with Association of Public Health Laboratories.
+* [Genomic Epi Jobs](https://www.genomicepi.com/jobs.html) - Crowdsourced genomic epi genomes on Krisandra Allen's site.
 
 ### Contracting companies
 
