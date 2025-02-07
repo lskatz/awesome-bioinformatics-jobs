@@ -54,6 +54,10 @@ Help wanted: academia
 * [Zeit Online](http://jobs.zeit.de)
 * [Jobs beim Staat](https://www.jobs-beim-staat.de)
 
+### Sweden
+
+* [SciLifeLab](https://www.scilifelab.se/careers/)
+
 ### United States
 
 * [USA jobs](https://www.usajobs.gov)
