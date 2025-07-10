@@ -65,4 +65,3 @@ Help wanted: academia
 ### France
 
 * [SFBI](https://www.sfbi.fr/)
-
