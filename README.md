@@ -36,7 +36,7 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 * [Leidos](https://careers.leidos.com)
 * [IHRC](https://www.ihrc.com/Careers/Join-Us)
 * [ASRT](https://www.asrtinc.com/careers)
-* [Theiagen](https://theiagen.com/careers/) - Bioinformatics company focused on public health genomics.
+* [Theiagen](https://www.theiagen.com/contact-us) - Bioinformatics company focused on public health genomics.
 
 ## Fellowships
 
