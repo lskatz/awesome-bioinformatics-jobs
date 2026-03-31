@@ -8,7 +8,15 @@ Thank you for helping grow this list! To add a new careers site or resource, ple
 
 You'll need a [GitHub account](https://github.com/join) to do this.
 
-![Contribution workflow: open README, add entry, propose changes, CI passes, merged](media/pr-workflow.svg)
+```mermaid
+flowchart LR
+    A["1. Open\nREADME.md"] --> B["2. Add entry\nin right section"]
+    B --> C["3. Propose changes\n& open PR"]
+    C --> D["4. CI checks\npass"]
+    D --> E["5. Merged!\nLink is live"]
+    style D fill:#1a7f37,color:#fff
+    style E fill:#8250df,color:#fff
+```
 
 ### Quick steps
 
@@ -37,13 +45,14 @@ Entries must follow the [awesome list](https://github.com/sindresorhus/awesome/b
 
 Place your entry in the section that best fits. Use the table below as a guide:
 
-![README section guide: General, Contracting companies, Fellowships, Subfields, Regional, Country](media/categories.svg)
-
-- **General** — Broad job boards, professional societies, and job aggregators that cover bioinformatics broadly.
-  - **Contracting companies** (subsection of General) — Staffing or government contracting firms with bioinformatics roles.
-- **Fellowships** — Formal fellowship and training programs with a defined application process.
-- **Subfields** — Resources focused on a specific niche within bioinformatics (e.g. clinical, food safety, genomic epidemiology).
-- **Regional** — Job boards scoped to a single country or region. Add entries under the matching `### Country` subsection, or create a new one if your country is not listed yet.
+| Section | What to put here |
+|---|---|
+| **General** | Broad job boards, professional societies, and general aggregators |
+| &nbsp;&nbsp;↳ Contracting companies | Staffing and government contracting firms |
+| **Fellowships** | Formal fellowship and training programs |
+| **Subfields** | Specialized or niche areas within bioinformatics |
+| **Regional** | Country or region-specific job boards |
+| &nbsp;&nbsp;↳ Country name | Add a new `### Country` subsection under Regional |
 
 If you are unsure which section fits, leave a comment on your pull request and a maintainer will help.
 
