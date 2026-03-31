@@ -2,25 +2,51 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-## Adding an awesome list
+## How to add a careers site
 
-Please ensure your pull request adheres to the [list guidelines](pull_request_template.md).
+Thank you for helping grow this list! To add a new careers site or resource, please open a [pull request](https://help.github.com/articles/using-pull-requests/) against `README.md`.
 
-## Adding something to an awesome list
+You'll need a [GitHub account](https://github.com/join) to do this.
 
-If you have something awesome to contribute to an awesome list, this is how you do it.
+### Quick steps
 
-You'll need a [GitHub account](https://github.com/join)!
+1. Open [`README.md`](README.md) in the GitHub editor (click the pencil ✏️ icon on the file page).
+2. Add your entry in the appropriate section (e.g. **General**, **Fellowships**, **Subfields**, or **Regional**). If no existing section fits, propose a new one.
+3. Follow the entry format described below.
+4. Scroll down, describe your change, and click **Propose changes**.
+5. Click **Create pull request** on the comparison page and submit.
 
-1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
-3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+### Entry format
+
+Entries must follow the [awesome list](https://github.com/sindresorhus/awesome/blob/main/contributing.md) syntax:
+
+```markdown
+* [Site Name](https://example.com) - One-sentence description of the site.
+```
+
+- The description must start with a capital letter and end with a period.
+- Keep the description concise — one sentence only.
+- The URL must be the direct link to the jobs/careers page, not a homepage, unless the homepage *is* the jobs listing.
+- Entries within a section should be added in alphabetical order.
+
+### What makes a good entry
+
+- The site is genuinely useful to someone looking for bioinformatics jobs.
+- The site is publicly accessible (no paywall or login required to browse listings).
+- The link is stable and not likely to disappear soon.
+
+### Automated checks
+
+Every pull request is automatically checked by [awesome-lint](https://github.com/sindresorhus/awesome-lint) via CI. Your PR must pass these checks before it can be merged. Common reasons for failures include:
+
+- Missing or malformed description (wrong capitalization, no trailing period).
+- Duplicate entries.
+- Broken or non-HTTPS URLs.
+
+If your PR fails CI, review the error output in the **Checks** tab and push a fix to the same branch.
 
 ## Updating your Pull Request
 
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
+If a maintainer asks you to make changes, or CI reports an error, you can push additional commits to the same branch and the PR will update automatically.
 
-[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a guide on amending commits in a pull request.
