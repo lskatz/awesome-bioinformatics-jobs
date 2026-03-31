@@ -25,6 +25,7 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 * [ASM](https://www.asmcareerconnections.org/) - American Society for Microbiology career connections. Despite the name, there are international listings.
 * [APHL](https://careers.aphl.org/) - Laboratory careers with Association of Public Health Laboratories.
 * [Genomic Epi Jobs](https://www.genomicepi.com/jobs.html) - Crowdsourced genomic epi genomes on Krisandra Allen's site.
+* [Indeed](https://www.indeed.com/jobs?q=bioinformatics) - General job board filtered for bioinformatics positions.
 
 ### Contracting companies
 
@@ -35,6 +36,7 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 * [Leidos](https://careers.leidos.com)
 * [IHRC](https://www.ihrc.com/Careers/Join-Us)
 * [ASRT](https://www.asrtinc.com/careers)
+* [Theiagen](https://www.theiagen.com/contact-us) - Bioinformatics company focused on public health genomics.
 
 ## Fellowships
 
