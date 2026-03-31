@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 130" width="600" height="130">
+  <!-- background -->
+  <rect width="600" height="130" rx="8" fill="#f6f8fa"/>
+
+  <!-- code box -->
+  <rect x="8" y="10" width="584" height="44" rx="4" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- code text: * [Site Name](https://example.com/jobs) - Description of the site. -->
+  <!-- Using approximate monospace char width of 8px at font-size=13 -->
+  <!-- x positions: start=20, * [ ends at 44, Site Name mid=80 end=116, ]( ends at 132,
+       https://example.com/jobs mid=228 end=324, ) - ends at 356, Description... mid=452 end=548 -->
+  <text x="20" y="37" font-family="'Courier New',Courier,monospace" font-size="13" fill="#24292f">* [<tspan fill="#0969da">Site Name</tspan>](<tspan fill="#1a7f37">https://example.com/jobs</tspan>) - <tspan fill="#8250df">Description of the site.</tspan></text>
+
+  <!-- colored underline bars (y=54, height=3) -->
+  <rect x="44"  y="54" width="72"  height="3" rx="1" fill="#0969da"/>  <!-- Site Name -->
+  <rect x="132" y="54" width="192" height="3" rx="1" fill="#1a7f37"/>  <!-- URL -->
+  <rect x="356" y="54" width="192" height="3" rx="1" fill="#8250df"/>  <!-- description -->
+
+  <!-- vertical annotation lines -->
+  <line x1="80"  y1="57" x2="80"  y2="72" stroke="#0969da" stroke-width="1.5"/>
+  <line x1="228" y1="57" x2="228" y2="72" stroke="#1a7f37" stroke-width="1.5"/>
+  <line x1="452" y1="57" x2="452" y2="72" stroke="#8250df" stroke-width="1.5"/>
+
+  <!-- annotation labels -->
+  <text x="80"  y="86"  font-family="system-ui,sans-serif" font-size="11.5" fill="#0969da" text-anchor="middle" font-weight="600">Link text</text>
+
+  <text x="228" y="86"  font-family="system-ui,sans-serif" font-size="11.5" fill="#1a7f37" text-anchor="middle" font-weight="600">Direct URL</text>
+  <text x="228" y="101" font-family="system-ui,sans-serif" font-size="11.5" fill="#1a7f37" text-anchor="middle">to careers page</text>
+
+  <text x="452" y="86"  font-family="system-ui,sans-serif" font-size="11.5" fill="#8250df" text-anchor="middle" font-weight="600">Starts uppercase,</text>
+  <text x="452" y="101" font-family="system-ui,sans-serif" font-size="11.5" fill="#8250df" text-anchor="middle">ends with a period</text>
+</svg>

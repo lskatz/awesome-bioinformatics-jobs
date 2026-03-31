@@ -15,6 +15,9 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 
 ## General
 
+<!-- CONTRIBUTING TIP: Add broad bioinformatics job boards, professional societies, and general aggregators here.
+     Sub-sections (###) for specific employer types (e.g. "Contracting companies") are welcome.
+     Keep entries in alphabetical order and use HTTPS URLs. -->
 * [PHEC](https://apps.sph.emory.edu/PHEC) - Emory University's Public Health Employment Connection.
 * [ISCB](https://www.iscb.org/) - International Society for Computational Biology.
 * [bioinformatics.org](https://www.bioinformatics.org/jobs)
@@ -25,6 +28,8 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 
 ### Contracting companies
 
+<!-- CONTRIBUTING TIP: List staffing agencies and government contracting firms that regularly hire bioinformaticians.
+     Keep entries in alphabetical order. -->
 * [Booz|Allen|Hamilton](https://careers.boozallen.com)
 * [Battelle](https://www.battelle.org/careers)
 * [Leidos](https://careers.leidos.com)
@@ -33,11 +38,17 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 
 ## Fellowships
 
+<!-- CONTRIBUTING TIP: Add formal fellowship and training programs with a structured application process.
+     Examples: government-funded fellowships, postdoctoral fellowships, and early-career training awards.
+     Keep entries in alphabetical order. -->
 * [ORISE](https://orise.orau.gov/cdc) - Fellowships funded by Oak Ridge National Labs.
 * [APHL-CDC Bioinformatics Fellowship](https://www.aphl.org/fellowships/pages/bioinformatics.aspx)
 
 ## Subfields
 
+<!-- CONTRIBUTING TIP: Add job boards or resources focused on a specific niche within bioinformatics,
+     such as clinical genomics, food safety, infectious disease, or agricultural bioinformatics.
+     Each niche can have its own ### subsection. Keep entries in alphabetical order. -->
 Help wanted: third party testing labs and food companies
 
 Help wanted: hospitals or non-profit organizations such as health-related data
@@ -48,6 +59,10 @@ Help wanted: academia
 
 ## Regional
 
+<!-- CONTRIBUTING TIP: Add job boards scoped to a specific country or region.
+     Use a ### Country subsection (e.g. "### Canada"). If the country already exists, add your entry there.
+     If it does not exist, add a new ### subsection in alphabetical order among the existing countries.
+     Keep entries within each country section in alphabetical order. -->
 ### Germany
 
 * [FaBI](https://bioinformatik.de/)
