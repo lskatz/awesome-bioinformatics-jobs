@@ -8,6 +8,8 @@ Thank you for helping grow this list! To add a new careers site or resource, ple
 
 You'll need a [GitHub account](https://github.com/join) to do this.
 
+![Contribution workflow: open README, add entry, propose changes, CI passes, merged](media/pr-workflow.svg)
+
 ### Quick steps
 
 1. Open [`README.md`](README.md) in the GitHub editor (click the pencil ✏️ icon on the file page).
@@ -24,10 +26,26 @@ Entries must follow the [awesome list](https://github.com/sindresorhus/awesome/b
 * [Site Name](https://example.com) - One-sentence description of the site.
 ```
 
+![Entry format: link text, direct URL, description that starts uppercase and ends with a period](media/entry-format.svg)
+
 - The description must start with a capital letter and end with a period.
 - Keep the description concise — one sentence only.
 - The URL must be the direct link to the jobs/careers page, not a homepage, unless the homepage *is* the jobs listing.
 - Entries within a section should be added in alphabetical order.
+
+### Choosing the right category
+
+Place your entry in the section that best fits. Use the table below as a guide:
+
+![README section guide: General, Contracting companies, Fellowships, Subfields, Regional, Country](media/categories.svg)
+
+- **General** — Broad job boards, professional societies, and job aggregators that cover bioinformatics broadly.
+  - **Contracting companies** (subsection of General) — Staffing or government contracting firms with bioinformatics roles.
+- **Fellowships** — Formal fellowship and training programs with a defined application process.
+- **Subfields** — Resources focused on a specific niche within bioinformatics (e.g. clinical, food safety, genomic epidemiology).
+- **Regional** — Job boards scoped to a single country or region. Add entries under the matching `### Country` subsection, or create a new one if your country is not listed yet.
+
+If you are unsure which section fits, leave a comment on your pull request and a maintainer will help.
 
 ### What makes a good entry
 
