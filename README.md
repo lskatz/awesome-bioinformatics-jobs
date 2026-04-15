@@ -43,8 +43,9 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 <!-- CONTRIBUTING TIP: Add formal fellowship and training programs with a structured application process.
      Examples: government-funded fellowships, postdoctoral fellowships, and early-career training awards.
      Keep entries in alphabetical order. -->
-* [ORISE](https://orise.orau.gov/cdc) - Fellowships funded by Oak Ridge National Labs.
 * [APHL-CDC Bioinformatics Fellowship](https://www.aphl.org/fellowships/pages/bioinformatics.aspx)
+* [CDC EFMS](https://cdc-efms.powerappsportals.us/) - CDC's Electronic Fellowship Management System for browsing and applying to CDC fellowship and training opportunities.
+* [ORISE](https://orise.orau.gov/cdc) - Fellowships funded by Oak Ridge National Labs.
 
 ## Subfields
 
