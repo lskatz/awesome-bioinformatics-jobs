@@ -66,6 +66,10 @@ Help wanted: academia
      Use a ### Country subsection (e.g. "### Canada"). If the country already exists, add your entry there.
      If it does not exist, add a new ### subsection in alphabetical order among the existing countries.
      Keep entries within each country section in alphabetical order. -->
+### Canada
+
+* [Hanzilla Jobs Sciences](https://jobs.hanzilla.co/sciences/) - Canadian student and recent-graduate science roles across biology, biotech, geology, lab, data, and related early-career fields.
+
 ### Germany
 
 * [FaBI](https://bioinformatik.de/)
