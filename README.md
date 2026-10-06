@@ -20,6 +20,7 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
      Keep entries in alphabetical order and use HTTPS URLs. -->
 * [PHEC](https://apps.sph.emory.edu/PHEC) - Emory University's Public Health Employment Connection.
 * [ISCB](https://www.iscb.org/) - International Society for Computational Biology.
+* [Bioinformatics Jobs](https://bioinformaticsjobs.org/jobs/) - Job board for bioinformatics scientists, computational biologists, biostatisticians, and genomics scientists, free to browse with no login.
 * [bioinformatics.org](https://www.bioinformatics.org/jobs)
 * [BioStars](https://www.biostars.org/t/jobs)
 * [ASM](https://www.asmcareerconnections.org/) - American Society for Microbiology career connections. Despite the name, there are international listings.
