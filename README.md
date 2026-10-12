@@ -38,6 +38,10 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 * [ASRT](https://www.asrtinc.com/careers)
 * [Theiagen](https://www.theiagen.com/contact-us) - Bioinformatics company focused on public health genomics.
 
+### Job search automation
+
+* [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-assisted job-search workflow for searching career portals and drafting tailored cover letters and CVs.
+
 ## Fellowships
 
 <!-- CONTRIBUTING TIP: Add formal fellowship and training programs with a structured application process.
