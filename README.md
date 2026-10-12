@@ -86,6 +86,7 @@ Help wanted: academia
 
 ### United States
 
+* [U.S. State Job Portals](https://github.com/mdperry/us-state-job-portals) - Claude Code skills for searching 34 state government job boards, including public health agencies.
 * [USA jobs](https://www.usajobs.gov)
 
 ### France
