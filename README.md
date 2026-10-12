@@ -9,6 +9,7 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 ## Contents
 
 * [General](#general)
+* [AI-assisted job search](#ai-assisted-job-search)
 * [Fellowships](#fellowships)
 * [Subfields](#subfields)
 * [Regional](#regional)
@@ -38,9 +39,10 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 * [ASRT](https://www.asrtinc.com/careers)
 * [Theiagen](https://www.theiagen.com/contact-us) - Bioinformatics company focused on public health genomics.
 
-### Job search automation
+## AI-assisted job search
 
 * [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-assisted job-search workflow for searching career portals and drafting tailored cover letters and CVs.
+* [U.S. State Job Portals](https://github.com/mdperry/us-state-job-portals) - Claude Code skills for searching 34 state government job boards, including public health agencies.
 
 ## Fellowships
 
@@ -86,7 +88,6 @@ Help wanted: academia
 
 ### United States
 
-* [U.S. State Job Portals](https://github.com/mdperry/us-state-job-portals) - Claude Code skills for searching 34 state government job boards, including public health agencies.
 * [USA jobs](https://www.usajobs.gov)
 
 ### France
