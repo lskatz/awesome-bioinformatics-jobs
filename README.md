@@ -42,6 +42,7 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 ## AI-assisted job search
 
 * [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-assisted job-search workflow for searching career portals and drafting tailored cover letters and CVs.
+* [JobEmerge](https://www.jobemerge.work) - Freemium job-fit check, resume translator, and Markdown resume editor for preparing applications.
 * [U.S. State Job Portals](https://github.com/mdperry/us-state-job-portals) - Claude Code skills for searching 34 state government job boards, including public health agencies.
 
 ## Fellowships
@@ -93,3 +94,4 @@ Help wanted: academia
 ### France
 
 * [SFBI](https://www.sfbi.fr/)
+
