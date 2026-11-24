@@ -43,6 +43,10 @@ _NOTE_: This list does not reflect any personal or professional bias or opinions
 
 * [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-assisted job-search workflow for searching career portals and drafting tailored cover letters and CVs.
 * [U.S. State Job Portals](https://github.com/mdperry/us-state-job-portals) - Claude Code skills for searching 34 state government job boards, including public health agencies.
+* [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) - New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP).
+* [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) - New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP).
+* [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) - New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
+* [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 
 ## Fellowships
 
